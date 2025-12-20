@@ -1,5 +1,5 @@
 # Time-Travel File System (TTFS)
-xoxoxoo
+
 ## Project Overview
 This project implements a **Time-Travel File System (TTFS)** in C++ that supports versioning, snapshots, branching, rollback, and analytics on files. It maintains the history of file contents over multiple versions, allowing users to explore and revert to previous versions of files. The system also provides commands to track the biggest files (by versions) and the most recently modified files.
 
